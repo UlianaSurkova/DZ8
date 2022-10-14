@@ -1,0 +1,15 @@
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\bin\Debug\net6.0\zadanie5.exe
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\bin\Debug\net6.0\zadanie5.deps.json
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\bin\Debug\net6.0\zadanie5.runtimeconfig.json
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\bin\Debug\net6.0\zadanie5.dll
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\bin\Debug\net6.0\zadanie5.pdb
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\zadanie5.csproj.AssemblyReference.cache
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\zadanie5.AssemblyInfoInputs.cache
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\zadanie5.AssemblyInfo.cs
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\zadanie5.dll
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\refint\zadanie5.dll
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\zadanie5.pdb
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\zadanie5.genruntimeconfig.cache
+C:\Users\91645\OneDrive\Рабочий стол\DZ8\zadanie5\obj\Debug\net6.0\ref\zadanie5.dll
